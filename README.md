@@ -13,7 +13,7 @@ My version of the PreConsonant features the following improvements compared to t
  - a much better PCB layout with full ground plane;
  - the PCB has enough space for audiophile grade components, namely input and output coupling capacitors;
  - increased gain (39dB at 1kHz vs 34dB at 1kHz for the original);
- - the level adjustment pots at the output has been removed; they probably made a lot of sense when the average integrated amplifier had input sensitivity of ~250mV and typical analogue sources, such as tuners, had output levels between 80 and 300mV. Today we live in a different world: most digital sources have output voltage of 2V RMS, and most amplifiers have much lower sensitivity than in the 1970s.
+ - the level adjustment pots at the output have been removed; they probably made a lot of sense when the average integrated amplifier had input sensitivity of ~250mV and typical analogue sources, such as tuners, had output levels between 80 and 300mV. Today we live in a different world: most digital sources have output voltage of 2V RMS, and most amplifiers have much lower sensitivity than in the 1970s.
  
 ### Technical specifications
 
