@@ -1,55 +1,72 @@
-                       *** Pavel's Hardware License ***
+                  *** Pavel's Limited Hardware License ***
 
-PreConsonant 2021 is © Pavel Urusov. Your use of the provided project files is
-subject to the following terms and conditions:
+PROJECT NAME: PreConsonant 2021
+PROJECT VERSION: R3.1e
+COPYRIGHT HOLDER(S): Pavel Urusov
 
-0. SCOPE OF THE LICENSE: this license applies to the original PCB artwork(s) and
-circuit diagram(s) created by the copyright holder(s), as well as any
-accompanying documentation provided herewith, including (but not limited to)
-assembly instructions, photographs, video guides, and bills of materials,
-collectively referred to as "the project files". It does not apply to the
-circuit(s) themselves since they are not protected by copyright in most
-jurisdictions.
+0. DEFINITIONS:
+   - "License": this license.
+   - "Copyright Holders": the original authors of the Project Files or any
+     persons who the copyright has been transferred to by the original authors
+     or their descendants.
+   - "Project Files": original PCB artworks and circuit diagrams created by the
+     original authors and owned by the Copyright Holders (identified above), as
+     well as any accompanying documentation provided together with the Project
+     Files, including (but not limited to) assembly instructions, photographs,
+     video guides, and bill of materials.
 
-1. NO WARRANTY OF ANY KIND: While every reasonable effort has been made to
-ensure that the PCB artwork(s), circuit diagram(s) and accompanying documentation
-are free of substantial errors, the project files are provided with no warranties
+1. SCOPE OF THE LICENSE: The License applies to the Project Files as defined
+above. It does not apply to the circuits themselves since they are not
+protected by copyright law in most jurisdictions. The License applies only to
+the version of the Project Files identified above. The Copyright Holders
+reserve the right to relicense further versions of the Project Files under a
+different license.
+
+2. NO WARRANTY OF ANY KIND: While every reasonable effort has been made to
+ensure that the PCB artworks, circuit diagrams and accompanying documentation
+are free of substantial errors, the Project Files are provided with no warranties
 whatsoever, whether implied or explicit, including (but not limited to) the
 implied warranties of merchantability and fitness for a particular purpose.
 
-2. NO COMPENSATION OF ANY KIND: In no event until agreed to in writing shall the
-copyright holder(s) be liable to you for damages of any kind, including any
+3. NO COMPENSATION OF ANY KIND: In no event unless agreed to in writing shall the
+Copyright Holders be liable to you for damages of any kind, including any
 general, special, incidental or consequential damages arising out of your use or
-inability to use the project files. Should the project files require any
+inability to use the Project Files. Should the Project Files require any
 remedial works to be usable, the cost of any and all such works shall be borne
 by you, including (but not limited to) the cost of creating new PCB designs,
 ordering new PCBs or sourcing additional components.
 
-3. USE AT YOUR OWN RISK: Assembling electronic apparatuses of any kind,
+4. USE AT YOUR OWN RISK: Assembling electronic apparatuses of any kind,
 especially those that are mains-powered, carries an inherent risk of injury,
 potentially leading to death. It is generally assumed that any such activity
 should be undertaken only by suitably qualified persons. If you attempt to use
-the project files to build your own electronic device(s), you do so entirely at
-your own risk. In no event shall the copyright holder(s) be held responsible for
+the Project Files to build your own electronic devices, you do so entirely at
+your own risk. In no event shall the Copyright Holders be held responsible for
 your safety and well-being.
 
-4. COPYRIGHT NOTICES: Your use of the project files is contingent on preserving
+5. COPYRIGHT NOTICES: Your use of the Project Files is contingent on preserving
 any copyright notices provided with the project, including (but not limited to)
-identification marks included with the PCB artwork (logos, copyright information,
-design codes, etc.) Under no circumstances are you permitted to remove the
-aforementioned notices and identification marks from the PCB artwork(s) or the
-finished product(s).
+identification marks included with the PCB artworks (logos, copyright
+information, design codes, etc.) Under no circumstances are you permitted to
+remove the aforementioned notices and identification marks from the PCB artworks
+or any finished products based on the Project Files.
 
-5. REDISTRIBUTION: You are free to redistribute the project files provided that:
+6. REDISTRIBUTION: You are free to redistribute the Project Files provided that:
    a) you do not modify them in any way; and
    b) you preserve the README file, license information and any and all
       copyright notices included with the project.
 
-6. NO DERIVATIVE WORKS: You are not allowed to create derivative works (i.e.
-works that are substantially based on one or more of the project files) without
-an express written permission of the copyright holder(s).
+7. NO DERIVATIVE WORKS: You are not allowed to create derivative works (i.e.
+works that are substantially based on one or more of the Project Files) without
+an express written permission of the Copyright Holders.
 
-7. FREE FOR BOTH COMMERCIAL AND NON-COMMERCIAL USE: you are free to use the
-project files for both non-commercial and commercial purposes (including, but
-not limited to, assembling finished products for sale) provided that you
-observe the terms and conditions of this license.
+8. FREE FOR BOTH COMMERCIAL AND NON-COMMERCIAL USE: The Copyright Holders hereby
+grant you the right to use the Project Files for both non-commercial and
+commercial purposes (including, but not limited to, assembling finished products
+for sale) provided that you observe the terms and conditions of this License and
+that your use of the Project Files does not violate any applicable laws and
+regulations.
+
+9. TERMINATION: Your non-compliance with any of the License terms automatically
+terminates any and all rights granted to you by the Copyright Holders under the
+terms of the License.
