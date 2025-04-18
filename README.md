@@ -4,7 +4,7 @@
 
 ### Basic information
 
-This repository contains all the information necessary to build a PreConsonant phono preamplifier.
+This repository contains all the information necessary to build the PreConsonant 2021 phono preamplifier.
 
 The original circuit was first published in the Elektor magazine in 1978. In the 1980s it was one of the most popular DIY phono preamplifiers in Europe because of its low parts count and good performance.
 
