@@ -22,7 +22,7 @@ My version of the PreConsonant features the following improvements compared to t
  - Overload margin: not less than 27dB (ref. 5mV input at 1kHz when powered from +24V supply).
  - Signal to noise ratio: greater than 72dB (ref. 5mV input at 1kHz).
  - Total harmonic distortion: less than 0.01% (ref. 16mV input at 1kHz).
- - Recommended power supply: 24V DC.
+ - Recommended power supply: 24V DC, e.g. [this one](https://github.com/SpinningVinyl/PreConsonantPSU).
 
 ### Documentation
 
